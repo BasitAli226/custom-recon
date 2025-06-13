@@ -17,4 +17,5 @@ custom-recon/
 ├── requirements.txt
 ├── README.md
 
+pip install -r requirements.txt
 python recon.py --whois --dns --subdomains --ports --banner --tech --verbose
